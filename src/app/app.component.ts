@@ -8,7 +8,4 @@ import { Component } from "@angular/core";
 export class AppComponent implements NgOnInit {
   title = "CodeSandbox";
 
-  ngOnInit() {
-    window.alert('hi');
-  }
-}
+  
